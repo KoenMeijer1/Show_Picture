@@ -2,4 +2,4 @@
 
 ![Show_Picture](index.jpeg)
 
-![Show_Picture](Oh hi Mark.ppt)
+![Show_Picture](Oh_hi_Mark.ppt)
