@@ -1,3 +1,3 @@
 # Show_Picture
 
-![Photo](/Downloads/index.jpeg)
+![Photo](/Show_Picture/index.jpeg)
